@@ -4,6 +4,8 @@ namespace Vista.Api.Data
 {
     public class TrainersDbContext : DbContext
     {
+
+        // 
         // Notes
         // - DbSet defines the  database table.
         // - the class name is defined as part of the data model
